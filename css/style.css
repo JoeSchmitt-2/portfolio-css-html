@@ -285,7 +285,6 @@ nav [class*="fa-"]:hover {
   #projects .reverse ul {
     justify-content: flex-start;
   }
-  
 }
 
 
@@ -302,7 +301,6 @@ nav [class*="fa-"]:hover {
         /* takes the space from the outside of the navbar and puts it inbetween the first child and the following li children */
         margin-right: auto;
     }
-    
 }
 
 
